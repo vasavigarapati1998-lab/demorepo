@@ -796,6 +796,7 @@
                         <div class="dropdown-content">
                             <a href="#"><em class="fas fa-mobile-alt"></em> Smartphones</a>
                             <a href="#"><em class="fas fa-laptop"></em> Laptops</a>
+
                             <a href="#"><em class="fas fa-tshirt"></em> Clothing</a>
                             <a href="#"><i class="fas fa-headphones"></i> Gadgets</a>
                             <a href="#"><i class="fas fa-shoe-prints"></i> Footwear</a>
@@ -826,6 +827,7 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
+
             <h1>Winter Collection 2024</h1>
             <p>Discover the latest trends in fashion, technology and accessories with up to 40% off selected items</p>
             <div class="hero-buttons">
